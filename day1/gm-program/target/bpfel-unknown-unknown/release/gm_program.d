@@ -1,0 +1,1 @@
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/bpfel-unknown-unknown/release/gm_program.so: /home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/src/lib.rs

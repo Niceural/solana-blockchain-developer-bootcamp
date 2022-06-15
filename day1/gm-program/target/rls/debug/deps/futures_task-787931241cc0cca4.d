@@ -1,0 +1,11 @@
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/futures_task-787931241cc0cca4.rmeta: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/spawn.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/arc_wake.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker_ref.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/future_obj.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/noop_waker.rs
+
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/futures_task-787931241cc0cca4.d: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/spawn.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/arc_wake.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker_ref.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/future_obj.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/noop_waker.rs
+
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/lib.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/spawn.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/arc_wake.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/waker_ref.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/future_obj.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.21/src/noop_waker.rs:

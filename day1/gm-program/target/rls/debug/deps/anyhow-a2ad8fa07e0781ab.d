@@ -1,0 +1,15 @@
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/anyhow-a2ad8fa07e0781ab.rmeta: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/backtrace.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/chain.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/context.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ensure.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/error.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/fmt.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/kind.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/macros.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ptr.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/wrapper.rs
+
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/anyhow-a2ad8fa07e0781ab.d: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/backtrace.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/chain.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/context.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ensure.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/error.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/fmt.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/kind.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/macros.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ptr.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/wrapper.rs
+
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/lib.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/backtrace.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/chain.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/context.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ensure.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/error.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/fmt.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/kind.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/macros.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/ptr.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.57/src/wrapper.rs:

@@ -1,0 +1,14 @@
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/scroll-5f8260e301cb7c33.rmeta: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/ctx.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pread.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pwrite.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/greater.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/error.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/endian.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/leb128.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lesser.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/../README.md
+
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/scroll-5f8260e301cb7c33.d: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/ctx.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pread.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pwrite.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/greater.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/error.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/endian.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/leb128.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lesser.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/../README.md
+
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lib.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/ctx.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pread.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pwrite.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/greater.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/error.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/endian.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/leb128.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lesser.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/../README.md:

@@ -1,0 +1,11 @@
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/generic_array-6d619f4e18c71581.rmeta: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/hex.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/impls.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/arr.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/functional.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/iter.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/sequence.rs
+
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/generic_array-6d619f4e18c71581.d: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/hex.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/impls.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/arr.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/functional.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/iter.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/sequence.rs
+
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/lib.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/hex.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/impls.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/arr.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/functional.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/iter.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.4/src/sequence.rs:

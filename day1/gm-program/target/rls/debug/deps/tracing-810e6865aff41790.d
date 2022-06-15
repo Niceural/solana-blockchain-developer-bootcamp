@@ -1,0 +1,13 @@
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/tracing-810e6865aff41790.rmeta: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/macros.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/dispatcher.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/field.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/instrument.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/level_filters.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/span.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/stdlib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/subscriber.rs
+
+/home/nic/Documents/solana/solana-blockchain-developer-bootcamp/day1/gm-program/target/rls/debug/deps/tracing-810e6865aff41790.d: /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/lib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/macros.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/dispatcher.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/field.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/instrument.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/level_filters.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/span.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/stdlib.rs /home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/subscriber.rs
+
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/lib.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/macros.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/dispatcher.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/field.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/instrument.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/level_filters.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/span.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/stdlib.rs:
+/home/nic/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.35/src/subscriber.rs:
