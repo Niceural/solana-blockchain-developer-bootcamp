@@ -1,6 +1,12 @@
 # Chainlink Solana Blockchain Developer Bootcamp 2022
 
-<img src="./image.png" alt="Bootcamp intro slide" style="text-align: center; width: 700px;">
+<img src="./image.png" alt="Bootcamp intro slide" style="
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;">
+
+<br />
 
 This repo contains my code for the [Solana Blockchain Developer Bootcamp 2022](https://chain.link/bootcamp/solana-2022-on-demand) by [Chainlink](https://chain.link/)
 
@@ -19,4 +25,7 @@ Last but not least, I had the chance to use Chainlink [Data Feeds](https://docs.
 <br />
 
 I would first like to thank Chainlink for this great opportunity. Biggest thanks go to [Harry Papacharissiou](https://www.linkedin.com/in/harry-papacharissiou) for putting this bootcamp together and giving us the opportunity to chew glass all together :laughing: :heart_eyes: !
+
+<br />
+
 Looking forward to develop more on Solana :star_struck: !
